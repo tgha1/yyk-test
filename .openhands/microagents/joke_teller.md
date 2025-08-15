@@ -1,7 +1,7 @@
 ---
 name: joke_teller
 type: knowledge
-version: 1.0.0
+version: 1.0.1
 agent: CodeActAgent
 triggers: []
 ---
@@ -57,3 +57,8 @@ This microagent responds to requests for jokes and humor. It can provide:
 - No jokes that could be harmful or discriminatory
 - Focus on positive, uplifting humor
 - Suitable for all audiences
+
+## Notes
+
+- This microagent has no triggers as specified in the requirements
+- Version updated to 1.0.1 for enhanced documentation
